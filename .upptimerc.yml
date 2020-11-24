@@ -10,7 +10,7 @@ sites:
     url: https://space.wiput.me
   - name: wi.in.th
     url: https://wi.in.th
-  - name: ไว.ไทย
+  - name: wi.thai
     url: https://ไว.ไทย
 
 status-website:
