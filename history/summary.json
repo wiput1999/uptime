@@ -1,0 +1,34 @@
+[
+  {
+    "name": "wiput.me",
+    "url": "https://wiput.me",
+    "slug": "wiput-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 64
+  },
+  {
+    "name": "space.wiput.me",
+    "url": "https://space.wiput.me",
+    "slug": "space-wiput-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 252
+  },
+  {
+    "name": "wi.in.th",
+    "url": "https://wi.in.th",
+    "slug": "wi-in-th",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 326
+  },
+  {
+    "name": "wi.thai",
+    "url": "https://ไว.ไทย",
+    "slug": "wi-thai",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 181
+  }
+]
