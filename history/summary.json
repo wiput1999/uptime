@@ -6,5 +6,29 @@
     "status": "up",
     "uptime": "100.00%",
     "time": 58
+  },
+  {
+    "name": "space.wiput.me",
+    "url": "https://space.wiput.me",
+    "slug": "space-wiput-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 222
+  },
+  {
+    "name": "wi.in.th",
+    "url": "https://wi.in.th",
+    "slug": "wi-in-th",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 498
+  },
+  {
+    "name": "ไว.ไทย",
+    "url": "https://ไว.ไทย",
+    "slug": "",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 456
   }
 ]
