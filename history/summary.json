@@ -5,7 +5,7 @@
     "slug": "wiput-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 137
+    "time": 138
   },
   {
     "name": "space.wiput.me",
@@ -13,7 +13,7 @@
     "slug": "space-wiput-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 283
+    "time": 278
   },
   {
     "name": "wi.in.th",
@@ -21,7 +21,7 @@
     "slug": "wi-in-th",
     "status": "up",
     "uptime": "100.00%",
-    "time": 362
+    "time": 361
   },
   {
     "name": "wi.thai",
@@ -29,6 +29,6 @@
     "slug": "wi-thai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 198
+    "time": 196
   }
 ]
