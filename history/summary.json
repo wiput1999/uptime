@@ -5,7 +5,15 @@
     "slug": "wiput-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 142
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 156,
+    "timeDay": 259,
+    "timeWeek": 199,
+    "timeMonth": 156,
+    "timeYear": 156
   },
   {
     "name": "space.wiput.me",
@@ -13,7 +21,15 @@
     "slug": "space-wiput-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 264
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 278,
+    "timeDay": 256,
+    "timeWeek": 197,
+    "timeMonth": 278,
+    "timeYear": 278
   },
   {
     "name": "wi.in.th",
@@ -21,7 +37,15 @@
     "slug": "wi-in-th",
     "status": "up",
     "uptime": "100.00%",
-    "time": 359
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 381,
+    "timeDay": 404,
+    "timeWeek": 376,
+    "timeMonth": 381,
+    "timeYear": 381
   },
   {
     "name": "wi.thai",
@@ -29,6 +53,14 @@
     "slug": "wi-thai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 193
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 206,
+    "timeDay": 211,
+    "timeWeek": 180,
+    "timeMonth": 206,
+    "timeYear": 206
   }
 ]
