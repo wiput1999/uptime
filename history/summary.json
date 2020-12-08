@@ -2,6 +2,7 @@
   {
     "name": "wiput.me",
     "url": "https://wiput.me",
+    "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 233,
-    "timeWeek": 206,
-    "timeMonth": 164,
-    "timeYear": 164
+    "time": 163,
+    "timeDay": 132,
+    "timeWeek": 202,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "space.wiput.me",
     "url": "https://space.wiput.me",
+    "icon": "https://favicons.githubusercontent.com/space.wiput.me",
     "slug": "space-wiput-me",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 199,
-    "timeWeek": 185,
-    "timeMonth": 265,
-    "timeYear": 265
+    "time": 263,
+    "timeDay": 222,
+    "timeWeek": 186,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {}
   },
   {
     "name": "wi.in.th",
     "url": "https://wi.in.th",
+    "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 391,
-    "timeWeek": 330,
-    "timeMonth": 368,
-    "timeYear": 368
+    "time": 378,
+    "timeDay": 596,
+    "timeWeek": 366,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {}
   },
   {
     "name": "wi.thai",
     "url": "https://ไว.ไทย",
+    "icon": "https://favicons.githubusercontent.com/xn--43c1d.xn--o3cw4h",
     "slug": "wi-thai",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 198,
-    "timeWeek": 185,
-    "timeMonth": 203,
-    "timeYear": 203
+    "time": 205,
+    "timeDay": 246,
+    "timeWeek": 196,
+    "timeMonth": 205,
+    "timeYear": 205,
+    "dailyMinutesDown": {}
   }
 ]
