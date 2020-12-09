@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 153,
-    "timeWeek": 180,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 133,
+    "timeWeek": 191,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 250,
-    "timeWeek": 197,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 256,
+    "timeDay": 210,
+    "timeWeek": 206,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://wi.in.th",
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 140,
-    "timeWeek": 329,
+    "timeDay": 0,
+    "timeWeek": 334,
     "timeMonth": 368,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-09": 0
+    }
   },
   {
     "name": "wi.thai",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 132,
-    "timeWeek": 177,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 217,
+    "timeDay": 535,
+    "timeWeek": 242,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   }
 ]
