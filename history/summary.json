@@ -43,19 +43,19 @@
     "url": "https://wi.in.th",
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 716,
-    "timeWeek": 489,
-    "timeMonth": 435,
-    "timeYear": 403,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 404,
+    "timeDay": 591,
+    "timeWeek": 486,
+    "timeMonth": 436,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2021-02-04": 0
+      "2021-02-04": 14
     }
   },
   {
