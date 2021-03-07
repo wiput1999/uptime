@@ -43,10 +43,10 @@
     "url": "https://wi.in.th",
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
@@ -54,7 +54,9 @@
     "timeWeek": 386,
     "timeMonth": 375,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-07": 1
+    }
   },
   {
     "name": "wi.thai",
