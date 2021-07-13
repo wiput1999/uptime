@@ -4,9 +4,9 @@
     "url": "https://wiput.me",
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 206,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2021-07-13": 0,
       "2021-01-19": 34,
       "2021-01-13": 40
     }
