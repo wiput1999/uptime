@@ -4,9 +4,9 @@
     "url": "https://wiput.me",
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2021-07-15": 0,
       "2021-01-19": 34,
       "2021-01-13": 40
     }
@@ -65,9 +66,9 @@
     "url": "https://ไว.ไทย",
     "icon": "https://favicons.githubusercontent.com/xn--43c1d.xn--o3cw4h",
     "slug": "wi-thai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +77,8 @@
     "timeWeek": 391,
     "timeMonth": 354,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 0
+    }
   }
 ]
