@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 219,
-    "timeDay": 136,
-    "timeWeek": 220,
-    "timeMonth": 288,
+    "timeDay": 220,
+    "timeWeek": 226,
+    "timeMonth": 287,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2021-07-15": 19,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 77,
-    "timeWeek": 173,
+    "time": 269,
+    "timeDay": 207,
+    "timeWeek": 164,
     "timeMonth": 226,
-    "timeYear": 270,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2021-06-10": 17
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 1720,
-    "timeWeek": 627,
-    "timeMonth": 461,
-    "timeYear": 423,
+    "time": 422,
+    "timeDay": 184,
+    "timeWeek": 592,
+    "timeMonth": 454,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2021-03-07": 19
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 158,
-    "timeWeek": 201,
-    "timeMonth": 223,
+    "timeDay": 134,
+    "timeWeek": 177,
+    "timeMonth": 215,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2021-07-15": 19
