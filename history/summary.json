@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 124,
-    "timeWeek": 150,
-    "timeMonth": 277,
+    "timeDay": 250,
+    "timeWeek": 166,
+    "timeMonth": 283,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-07-15": 19,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 209,
-    "timeWeek": 155,
-    "timeMonth": 220,
-    "timeYear": 268,
+    "time": 267,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 210,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2021-06-10": 17
     }
@@ -47,16 +47,16 @@
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 372,
-    "timeWeek": 526,
-    "timeMonth": 443,
-    "timeYear": 421,
+    "uptimeYear": "100.00%",
+    "time": 422,
+    "timeDay": 551,
+    "timeWeek": 397,
+    "timeMonth": 450,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2021-03-07": 19
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 362,
-    "timeWeek": 192,
-    "timeMonth": 199,
-    "timeYear": 360,
+    "time": 359,
+    "timeDay": 215,
+    "timeWeek": 200,
+    "timeMonth": 205,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2021-07-15": 19
     }
