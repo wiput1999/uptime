@@ -4,9 +4,9 @@
     "url": "https://wiput.me",
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 213,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-15": 19,
       "2021-01-19": 34,
       "2021-01-13": 40
@@ -28,9 +29,9 @@
     "slug": "space-wiput-me",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 394,
@@ -38,7 +39,7 @@
     "timeMonth": 252,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-11-16": 0,
+      "2021-11-16": 7,
       "2021-06-10": 17
     }
   },
@@ -47,9 +48,9 @@
     "url": "https://wi.in.th",
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +60,7 @@
     "timeMonth": 379,
     "timeYear": 411,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-03-07": 19
     }
   },
@@ -67,9 +69,9 @@
     "url": "https://ไว.ไทย",
     "icon": "https://favicons.githubusercontent.com/xn--43c1d.xn--o3cw4h",
     "slug": "wi-thai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,6 +81,7 @@
     "timeMonth": 236,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-15": 19
     }
   }
