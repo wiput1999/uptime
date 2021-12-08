@@ -47,9 +47,9 @@
     "url": "https://wi.in.th",
     "icon": "https://favicons.githubusercontent.com/wi.in.th",
     "slug": "wi-in-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +59,7 @@
     "timeMonth": 417,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2021-12-08": 0,
       "2021-03-07": 19
     }
   },
@@ -67,9 +68,9 @@
     "url": "https://ไว.ไทย",
     "icon": "https://favicons.githubusercontent.com/xn--43c1d.xn--o3cw4h",
     "slug": "wi-thai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,6 +80,7 @@
     "timeMonth": 215,
     "timeYear": 332,
     "dailyMinutesDown": {
+      "2021-12-08": 0,
       "2021-07-15": 19
     }
   }
