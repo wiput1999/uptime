@@ -8,14 +8,10 @@ sites:
     url: https://wiput.me
   - name: space.wiput.me
     url: https://space.wiput.me
-  - name: wi.in.th
-    url: https://wi.in.th
-  - name: wi.thai
-    url: https://ไว.ไทย
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.wi.in.th
+  cname: status.wiput.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
