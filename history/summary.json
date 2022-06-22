@@ -6,17 +6,16 @@
     "slug": "wiput-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 1643,
-    "timeWeek": 938,
-    "timeMonth": 398,
+    "timeDay": 1658,
+    "timeWeek": 849,
+    "timeMonth": 400,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-06-21": 8,
       "2021-07-15": 19
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 72,
-    "timeWeek": 152,
-    "timeMonth": 194,
-    "timeYear": 246,
+    "timeDay": 136,
+    "timeWeek": 154,
+    "timeMonth": 150,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2021-11-16": 25
     }
