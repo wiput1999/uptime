@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 128,
-    "timeWeek": 142,
-    "timeMonth": 391,
-    "timeYear": 241,
+    "timeDay": 306,
+    "timeWeek": 173,
+    "timeMonth": 394,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2021-07-15": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/space.wiput.me",
     "slug": "space-wiput-me",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 107,
-    "timeWeek": 653,
-    "timeMonth": 281,
-    "timeYear": 256,
+    "timeDay": 85,
+    "timeWeek": 643,
+    "timeMonth": 277,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2021-11-16": 25
     }
