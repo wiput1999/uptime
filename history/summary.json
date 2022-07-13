@@ -4,7 +4,7 @@
     "url": "https://wiput.me",
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 585,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2021-07-15": 19
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://space.wiput.me",
     "icon": "https://favicons.githubusercontent.com/space.wiput.me",
     "slug": "space-wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 272,
+    "time": 273,
     "timeDay": 105,
     "timeWeek": 241,
     "timeMonth": 511,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-07-03": 24,
       "2021-11-16": 25
     }
