@@ -4,19 +4,19 @@
     "url": "https://wiput.me",
     "icon": "https://favicons.githubusercontent.com/wiput.me",
     "slug": "wiput-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 127,
-    "timeWeek": 290,
-    "timeMonth": 479,
-    "timeYear": 272,
+    "timeDay": 110,
+    "timeWeek": 265,
+    "timeMonth": 468,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 21
     }
   },
   {
