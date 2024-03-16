@@ -24,11 +24,11 @@
     "url": "https://space.wiput.me",
     "icon": "https://icons.duckduckgo.com/ip3/space.wiput.me.ico",
     "slug": "space-wiput-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 72,
@@ -36,7 +36,7 @@
     "timeMonth": 127,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-03-16": 7
+      "2024-03-16": 0
     }
   }
 ]
