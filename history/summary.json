@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 387,
-    "timeWeek": 283,
-    "timeMonth": 249,
+    "timeDay": 248,
+    "timeWeek": 290,
+    "timeMonth": 252,
     "timeYear": 240,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "space-wiput-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 196,
-    "timeWeek": 289,
-    "timeMonth": 291,
+    "time": 267,
+    "timeDay": 376,
+    "timeWeek": 344,
+    "timeMonth": 303,
     "timeYear": 276,
-    "dailyMinutesDown": {
-      "2025-10-09": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
